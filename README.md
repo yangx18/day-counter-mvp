@@ -29,3 +29,4 @@ A simple, accessible, and performant day counter web app. Built with HTML, Tailw
 ---
 
 See the design doc for more details.
+# day-counter-mvp
